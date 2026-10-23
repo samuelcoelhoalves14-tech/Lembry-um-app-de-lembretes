@@ -1,7 +1,14 @@
 # Lembry
 App de lembretes para pessoas com baixa memória ou TDAH.
 
-<img width="796" height="777" alt="image" src="https://github.com/user-attachments/assets/de716bd6-c553-4381-9aba-f69e06bf096b" />
+Modo Escuro
+<img width="798" height="770" alt="image" src="https://github.com/user-attachments/assets/1882db16-ca83-4c54-ab8b-0e291177f401" />
+
+
+Modo Claro
+<img width="795" height="773" alt="image" src="https://github.com/user-attachments/assets/b2799be9-5e19-4af1-9039-d57c967e7a1e" />
+
+
 
 
 
