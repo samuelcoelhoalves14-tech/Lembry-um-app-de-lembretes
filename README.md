@@ -6,6 +6,9 @@ App de lembretes para pessoas com baixa memória ou TDAH.
 
 
 ## Equipe · Empresa Fan Tan
+
 **Programadores:** Samuel Coêlho
+
 **Designers:** Pedro Kevin e Kaic Silva
+
 **Product Owners:** Amadeu Costa, João Lucas e Ana Ester
